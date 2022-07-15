@@ -22,7 +22,7 @@ We decided to use
 - `express.js` for Backend and 
 - a MariaDB Database. 
 
-Furthermore, I had fun playing around with other technologies, so that I dockerized our app, so that the different applications we used can simply be deployed together. With docker, it was then not too difficult to build a CI workflow with GitHub Actions. 
+Furthermore, I had fun playing around with other technologies, so that I **dockerized** our app, for the different applications we used can simply be deployed together. With docker, it was then not too difficult to build a CI workflow with GitHub Actions. 
 
 Lastly, my honorable informatics teacher began to throw around words like redis, S3 and others, and so I tried to include all of these technologies. 
 - S3 is used as file storage for the projects. It is, running in a docker container (within the compose network) much easier to use than, e.g., an own FTP-file-server. 
