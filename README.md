@@ -11,6 +11,23 @@ What DB do I choose? That always depends on the project, and my coworker(s). I h
 
 In 2021-2022, I participated in the competitition [F1InSchools](https://www.f1inschools.com/), with my team [ISH Racing](https://ishracing.de). It was great that we could attend at the German Championship in Bremen (May 7th, 2022), where we were awarded the price for the 'Best Newcomer' due to the time and effort we put into our car design (including CFD-analysis and real-life tests), portfolios, presentation and pit display. 
 
+### ISH/Learn
+In Q2/2022, our task in the informatics class at my school was to build any kind of project with a database. I worked together with @Johann-jpg to build our final product can be found as [ISH/Learn](https://github.com/ishlearn/ishlearn). 
+
+This project was the most complex and complete that I ever participated in, using many technologies and real project management (GH Issues, PRs, the Projects Beta).
+
+#### Technologies 
+We decided to use 
+- `vue.js` for Frontend, 
+- `express.js` for Backend and 
+- a MariaDB Database. 
+
+Furthermore, I had fun playing around with other technologies, so that I dockerized our app, so that the different applications we used can simply be deployed together. With docker, it was then not too difficult to build a CI workflow with GitHub Actions. 
+
+Lastly, my honorable informatics teacher began to throw around words like redis, S3 and others, and so I tried to include all of these technologies. 
+- S3 is used as file storage for the projects. It is, running in a docker container (within the compose network) much easier to use than, e.g., an own FTP-file-server. 
+- Redis is used as a cache for complex queries that may take longer to compute, so that only the first user will have to wait for the result and the others' waiting time will be reduced by 99% (from 700ms to just 6-7ms).
+
 ## 🌱 I’m currently learning ...
 - Java: With the new release cycle of Java, there are always new features coming, and I love exploring what is new. 
 - TeX: Started in 2022 by taking notes in classes like physics and maths, but not very good at writing `TeX`. 
