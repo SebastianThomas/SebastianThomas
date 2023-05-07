@@ -30,11 +30,12 @@ Lastly, my honorable informatics teacher began to throw around words like redis,
 
 ## 🌱 I’m currently learning ...
 - Java: With the new release cycle of Java, there are always new features coming, and I love exploring what is new. 
-- TeX: Started in 2022 by taking notes in classes like physics and maths, but not very good at writing `TeX`. 
+- TeX: Started in 2022 by taking notes in classes like physics and maths
+- Rust: In 2023, I began learning the Rust programming language to discover low level programming
 
 <!--## 💞️ I’m looking to collaborate on ...-->
 ## 📫 How to reach me ...
-You can contact me either on GitHub, or write me an email (kontakt[at]sthomas.ch). Currently, I still manage to avoid the other social media as good as possible.
+You can contact me either on GitHub, or write me an email (kontakt[at]sthomas.ch). 
 
 <!---
 SebastianThomas/SebastianThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
