@@ -9,7 +9,7 @@ Furthermore, I started learning JavaScript in 2018 and began with writing fronte
 For backend development, I prefer the popular [`express.js`](https://expressjs.com/). 
 What DB do I choose? That always depends on the project, and my coworker(s). I have worked with document-oriented [MongoDB](https://www.mongodb.com/) as well as [MariaDB](https://mariadb.org/) (and [MySQL](https://www.mysql.com/)) as SQL-based DBs. 
 
-In 2021-2022, I participated in the competitition [F1InSchools](https://www.f1inschools.com/), with my team [ISH Racing](https://ishracing.de). It was great that we could attend at the German Championship in Bremen (May 7th, 2022), where we were awarded the price for the 'Best Newcomer' due to the time and effort we put into our car design (including CFD-analysis and real-life tests), portfolios, presentation and pit display. 
+In 2021-2022, I participated in the competitition [F1InSchools](https://www.f1inschools.com/), with my team [ISH Racing]([https://ishracing.de](https://www.instagram.com/ishracing.thegreenteam/). It was great that we could attend at the German Championship in Bremen (May 7th, 2022), where we were awarded the price for the 'Best Newcomer' due to the time and effort we put into our car design (including CFD-analysis and real-life tests), portfolios, presentation and pit display. 
 
 ### ISH/Learn
 In Q2/2022, our task in the informatics class at my school was to build any kind of project with a database. I worked together with @Johann-jpg to build our final product can be found as [ISH/Learn](https://github.com/ishlearn/ishlearn). 
