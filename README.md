@@ -16,28 +16,12 @@ In Q2/2022, our task in the informatics class at my school was to build any kind
 
 This project was the most complex and complete that I ever participated in, using many technologies and real project management (GH Issues, PRs, the Projects Beta).
 
-#### Technologies 
-We decided to use 
-- `vue.js` for Frontend, 
-- `express.js` for Backend and 
-- a MariaDB Database. 
+## Studies
 
-Furthermore, I had fun playing around with other technologies, so that I **dockerized** our app, for the different applications we used can simply be deployed together. With docker, it was then not too difficult to build a CI workflow with GitHub Actions. 
-
-Lastly, my honorable informatics teacher began to throw around words like redis, S3 and others, and so I tried to include all of these technologies. 
-- S3 is used as file storage for the projects. It is, running in a docker container (within the compose network) much easier to use than, e.g., an own FTP-file-server. 
-- Redis is used as a cache for complex queries that may take longer to compute, so that only the first user will have to wait for the result and the others' waiting time will be reduced by 99% (from 700ms to just 6-7ms).
-
-## 🌱 I’m currently learning ...
-- Java: With the new release cycle of Java, there are always new features coming, and I love exploring what is new. 
-- TeX: Started in 2022 by taking notes in classes like physics and maths
-- Rust: In 2023, I began learning the Rust programming language to discover low level programming
+Since 2023, I am studying Computer Science at ETH Zurich, concurrently I am also working as a part-time Software Engineer [@UbiqueInnovation](https://github.com/UbiqueInnovation). 
 
 <!--## 💞️ I’m looking to collaborate on ...-->
+<!--
 ## 📫 How to reach me ...
 You can contact me either on GitHub, or write me an email (kontakt[at]sthomas.ch). 
-
-<!---
-SebastianThomas/SebastianThomas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-->
